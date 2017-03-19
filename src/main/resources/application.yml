@@ -1,0 +1,12 @@
+server:
+  port: 8584
+
+spring:
+  application:
+    name: stream
+  rabbitmq:
+    host: rabbitmq
+    port: 5672
+    username: guest
+    password: guest
+
